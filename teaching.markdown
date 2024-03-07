@@ -1,0 +1,5 @@
+---
+layout: home
+title: Teaching
+permalink: /teaching/
+---
