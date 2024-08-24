@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+permalink: /teaching/
 ---
 
 Some information about you!
