@@ -23,7 +23,3 @@ As the first stars appeared in the twilight sky, a gentle breeze rustled the lea
 <p align="justify">
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 </p>
-
-<style type="text/css">
-body {overflow-y: scroll;}
-</style>
