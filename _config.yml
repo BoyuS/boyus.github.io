@@ -12,11 +12,9 @@ description: PhD Candidate in Finance
 avatar: "/images/CU Logo.png"
 
 # Main Navigation
-nav:
-- text: Blog
-  url: /blog/
-- text: About
-  url: /
+header_pages:
+  - blog.html
+  - About/index.md
 
 
 #
