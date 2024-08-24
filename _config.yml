@@ -11,6 +11,14 @@ description: PhD Candidate in Finance
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "/images/CU Logo.png"
 
+# Main Navigation
+nav:
+- text: Blog
+  url: /blog/
+- text: About
+  url: /
+
+
 #
 # Flags below are optional
 #
