@@ -19,13 +19,13 @@ html {
 
 body {
 	background: $white;
-  font: 17.2px/1.4 $helvetica;
+  font: 17.2px/1.43 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.66;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -197,7 +197,7 @@ img {
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 0.7px;
+  letter-spacing: 0.6px;
 }
 
 .site-description {
