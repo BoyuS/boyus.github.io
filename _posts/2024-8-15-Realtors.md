@@ -3,7 +3,6 @@ layout: post
 title: Random House
 ---
 
-{: style="text-align: justify" }
 
 The sun dipped below the horizon, casting a warm, golden hue over the quiet town. The streets, once bustling with activity, were now calm, with only the distant hum of cicadas breaking the silence. 
 
