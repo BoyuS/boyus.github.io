@@ -14,7 +14,8 @@ avatar: "/images/CU Logo.png"
 # Main Navigation
 header_pages:
   - blog.html
-  - About/index.md
+  - index.md
+  - teaching.md
 
 
 #
