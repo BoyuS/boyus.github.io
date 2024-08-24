@@ -23,6 +23,10 @@ body {
   color: $darkGray;
 }
 
+.inner {
+  max-width: 80%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
