@@ -6,7 +6,9 @@ title: Random House
 {: style="text-align: justify" }
 
 The sun dipped below the horizon, casting a warm, golden hue over the quiet town. The streets, once bustling with activity, were now calm, with only the distant hum of cicadas breaking the silence. 
+
 As the first stars appeared in the twilight sky, a gentle breeze rustled the leaves, carrying with it the faint scent of blooming jasmine. The old clock tower in the town square chimed softly, marking the hour, as if reminding the world to pause and take in the serenity of the moment. In that peaceful stillness, everything felt just right, as if time itself had slowed down to savor the beauty of the evening.
+
 As the first stars appeared in the twilight sky, a gentle breeze rustled the leaves, carrying with it the faint scent of blooming jasmine. The old clock tower in the town square chimed softly, marking the hour, as if reminding the world to pause and take in the serenity of the moment. In that peaceful stillness, everything felt just right, as if time itself had slowed down to savor the beauty of the evening.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
