@@ -15,7 +15,6 @@ As the first stars appeared in the twilight sky, a gentle breeze rustled the lea
 As the first stars appeared in the twilight sky, a gentle breeze rustled the leaves, carrying with it the faint scent of blooming jasmine. The old clock tower in the town square chimed softly, marking the hour, as if reminding the world to pause and take in the serenity of the moment. In that peaceful stillness, everything felt just right, as if time itself had slowed down to savor the beauty of the evening.
 </p>
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 <p align="center">
 <img src="/images/config.png" alt="drawing" width="500"/>
