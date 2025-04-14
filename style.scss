@@ -18,9 +18,13 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 16.8px/1.43 $helvetica;
   color: $darkGray;
+}
+
+.inner {
+  max-width: 80%;
 }
 
 .container {
@@ -35,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.66;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -45,22 +49,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 19.5px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 16.8px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 16.8px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 16.8px;
   color: $gray;
 }
 
@@ -197,7 +201,7 @@ img {
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 0.6px;
 }
 
 .site-description {
@@ -257,7 +261,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
