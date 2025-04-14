@@ -4,9 +4,10 @@
 
 # Main Navigation
 header_pages:
-  - blog.html
+  - projects.html
   - index.md
   - teaching.md
+  - research.md
 
 # Name of your site (displayed in the header)
 name: Boyu Shen
@@ -15,7 +16,7 @@ name: Boyu Shen
 description: PhD Candidate in Finance
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-# avatar: "/images/CU Logo.png"
+# avatar: "/images/cu-logo.png"
 
 #
 # Flags below are optional
